@@ -1,9 +1,0 @@
-On récupure l'IP de notre service "web" :
-
-kubectl get service web
-
-Puis on démarre le tunnel minikube :
-
-minikube tunnel
-
-Aller sur son navigateur favoris et écrire IP de notre service "web" dans la barre d'URL
